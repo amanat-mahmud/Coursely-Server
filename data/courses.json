@@ -1,7 +1,7 @@
 [
     {
         "id":"1",
-        "img":"",
+        "img":"https://imgs.search.brave.com/8WvaUv0MmRl29cirZCYqgh_G9rPxKNivjNjI0nUuL5A/rs:fit:840:500:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzEyMDAvMSpS/Sk14TGRUSHFWQlNp/akttT081TUFnLmpw/ZWc",
         "rating": "4.5",
         "duration": "60",
         "price": "49",
@@ -14,7 +14,7 @@
     },
     {
         "id":"2",
-        "img":"",
+        "img":"https://imgs.search.brave.com/a8purrjIRAE5ojgO4NOdsg2vlDXeWxBqH13gwai5fy0/rs:fit:660:330:1/g:ce/aHR0cHM6Ly93d3cu/Y291cnNlc3hwZXJ0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMy9DLUNv/dXJzZS5qcGc",
         "rating": "4.2",
         "duration": "67",
         "price": "59",
@@ -27,7 +27,7 @@
     },
     {
         "id":"3",
-        "img":"",
+        "img":"https://imgs.search.brave.com/jRGRvbuiCYL3GfI1QVAQNOKwufYqzYfDzsl8FbL8wro/rs:fit:1200:1152:1/g:ce/aHR0cHM6Ly9jb3Vy/c2Vjb3Vwb25jbHVi/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMy8zNDQy/ODQwXzMwMzMtMjA0/OHgxMTUyLmpwZw",
         "rating": "4.8",
         "duration": "48",
         "price": "69.99",
@@ -41,7 +41,7 @@
     },
     {
         "id":"4",
-        "img":"",
+        "img":"https://imgs.search.brave.com/LBmRtxbFdkjH5Cyj2BclpLJyW_81RNcntzXGJZjdibg/rs:fit:1200:808:1/g:ce/aHR0cHM6Ly9lZHVn/dWlkZS5jby5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8w/NS9tb2JpbGUtYXBw/LWRldmVsb3BtZW50/LWlsZWFkLnBuZw",
         "rating": "4.1",
         "duration": "20",
         "price": "39.99",
@@ -55,7 +55,7 @@
     },
     {
         "id":"5",
-        "img":"",
+        "img":"https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
         "rating": "4.5",
         "duration": "80",
         "price": "109.99",
@@ -69,7 +69,7 @@
     },
     {
         "id":"6",
-        "img":"",
+        "img":"https://iiht-kharghar.com/wp-content/uploads/Cloud-Computing-Course.jpg",
         "rating": "4.0",
         "duration": "40",
         "price": "39",
@@ -82,7 +82,7 @@
     },
     {
         "id":"7",
-        "img":"",
+        "img":"https://bbf.digital/wp-content/uploads/2018/02/301801114638digitalmarketing.jpg",
         "rating": "4.6",
         "duration": "70",
         "price": "89",
@@ -95,7 +95,7 @@
     },
     {
         "id":"8",
-        "img":"",
+        "img":"https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.small.png",
         "rating": "4.4",
         "duration": "20",
         "price": "29",
