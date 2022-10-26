@@ -1,178 +1,207 @@
 [
     {
-        "id":"1",
-        "img":"https://imgs.search.brave.com/8WvaUv0MmRl29cirZCYqgh_G9rPxKNivjNjI0nUuL5A/rs:fit:840:500:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzEyMDAvMSpS/Sk14TGRUSHFWQlNp/akttT081TUFnLmpw/ZWc",
+        "id": "1",
+        "img": "https://imgs.search.brave.com/8WvaUv0MmRl29cirZCYqgh_G9rPxKNivjNjI0nUuL5A/rs:fit:840:500:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzEyMDAvMSpS/Sk14TGRUSHFWQlNp/akttT081TUFnLmpw/ZWc",
         "rating": "4.5",
         "duration": "60",
         "price": "49",
-        "title":"Python for beginners",
+        "title": "Python for beginners",
         "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
-        "category_name":"Programming language",
-        "category_id":"1",
-        "created_by":"Brendon Pfannerstill",
-        "students":"12355",
-        "author_img":"https://images.unsplash.com/photo-1548544149-4835e62ee5b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "learning":["You will master the Python programming language by building 100 unique projects over 100 days.","You will be able to program in Python professionally","Create a portfolio of 100 Python projects to apply for developer jobs","Build GUIs and Desktop applications with Python","You will learn automation, game, app and web development, data science and machine learning all using Python."],
-        "requirements":[
-            "No programming experience needed - I'll teach you everything you need to know","No paid software required - I'll teach you how to use PyCharm, Jupyter Notebooks and Google Colab","I'll walk you through, step-by-step how to get all the software installed and set up"
+        "category_name": "Programming language",
+        "category_id": "1",
+        "created_by": "Brendon Pfannerstill",
+        "students": "12355",
+        "author_img": "https://images.unsplash.com/photo-1548544149-4835e62ee5b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "learning": [
+            "You will master the Python programming language by building 100 unique projects over 100 days.",
+            "You will be able to program in Python professionally",
+            "Create a portfolio of 100 Python projects to apply for developer jobs",
+            "Build GUIs and Desktop applications with Python",
+            "You will learn automation, game, app and web development, data science and machine learning all using Python."
         ],
-        "updated":"1/12/2021"
+        "requirements": [
+            "No programming experience needed - I'll teach you everything you need to know",
+            "No paid software required - I'll teach you how to use PyCharm, Jupyter Notebooks and Google Colab",
+            "I'll walk you through, step-by-step how to get all the software installed and set up"
+        ],
+        "updated": "1/12/2021"
     },
     {
-        "id":"2",
-        "img":"https://imgs.search.brave.com/a8purrjIRAE5ojgO4NOdsg2vlDXeWxBqH13gwai5fy0/rs:fit:660:330:1/g:ce/aHR0cHM6Ly93d3cu/Y291cnNlc3hwZXJ0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMy9DLUNv/dXJzZS5qcGc",
+        "id": "2",
+        "img": "https://imgs.search.brave.com/a8purrjIRAE5ojgO4NOdsg2vlDXeWxBqH13gwai5fy0/rs:fit:660:330:1/g:ce/aHR0cHM6Ly93d3cu/Y291cnNlc3hwZXJ0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMy9DLUNv/dXJzZS5qcGc",
         "rating": "4.2",
         "duration": "67",
         "price": "59",
-        "title":"C++ for dummies",
+        "title": "C++ for dummies",
         "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.",
-        "category_name":"Programming language",
-        "category_id":"1",
-        "created_by":"Henriette Kautze",
-        "students":"1035",
-        "author_img":"https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "learning":[
-            "Learn to program with one of the most powerful programming languages that exists today, C++.","Learn Modern C++ rather than an obsolete version of C++ that most other courses teach.", "Learn C++ using a proven curriculum that covers more material than most C++ university courses","Includes Quizzes, Live Coding Exercises, Challenge Coding Exercises and Assignments","New Section: Learn all about using C++ Lambda Expressions"
+        "category_name": "Programming language",
+        "category_id": "1",
+        "created_by": "Henriette Kautze",
+        "students": "1035",
+        "author_img": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "learning": [
+            "Learn to program with one of the most powerful programming languages that exists today, C++.",
+            "Learn Modern C++ rather than an obsolete version of C++ that most other courses teach.",
+            "Learn C++ using a proven curriculum that covers more material than most C++ university courses",
+            "Includes Quizzes, Live Coding Exercises, Challenge Coding Exercises and Assignments",
+            "New Section: Learn all about using C++ Lambda Expressions"
         ],
-        "requirements":[
+        "requirements": [
             "Access to a computer running Windows, Mac OS X or Linux"
         ],
-        "updated":"14/10/2022"
+        "updated": "14/10/2022"
     },
     {
-        "id":"3",
-        "img":"https://imgs.search.brave.com/jRGRvbuiCYL3GfI1QVAQNOKwufYqzYfDzsl8FbL8wro/rs:fit:1200:1152:1/g:ce/aHR0cHM6Ly9jb3Vy/c2Vjb3Vwb25jbHVi/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMy8zNDQy/ODQwXzMwMzMtMjA0/OHgxMTUyLmpwZw",
+        "id": "3",
+        "img": "https://imgs.search.brave.com/jRGRvbuiCYL3GfI1QVAQNOKwufYqzYfDzsl8FbL8wro/rs:fit:1200:1152:1/g:ce/aHR0cHM6Ly9jb3Vy/c2Vjb3Vwb25jbHVi/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMy8zNDQy/ODQwXzMwMzMtMjA0/OHgxMTUyLmpwZw",
         "rating": "4.8",
         "duration": "48",
         "price": "69.99",
-        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
         "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
-        "category_name":"Programming language",
-        "category_id":"1",
-        "created_by":"Lambert Emard",
-        "students":"56775",
-        "author_img":"https://images.unsplash.com/photo-1599566147214-ce487862ea4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
-        "learning":[
+        "category_name": "Programming language",
+        "category_id": "1",
+        "created_by": "Lambert Emard",
+        "students": "56775",
+        "author_img": "https://images.unsplash.com/photo-1599566147214-ce487862ea4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "learning": [
             "Become an advanced, confident, and modern JavaScript developer from scratch",
-            "Become job-ready by understanding how JavaScript really works behind the scenes", "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc."
+            "Become job-ready by understanding how JavaScript really works behind the scenes",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc."
         ],
-        "requirements":[
-            "No coding experience is necessary to take this course! I take you from beginner to expert!","ny computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course","A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course."
+        "requirements": [
+            "No coding experience is necessary to take this course! I take you from beginner to expert!",
+            "ny computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course",
+            "A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course."
         ],
-        "updated":"3/6/2022"
-
+        "updated": "3/6/2022"
     },
     {
-        "id":"4",
-        "img":"https://imgs.search.brave.com/LBmRtxbFdkjH5Cyj2BclpLJyW_81RNcntzXGJZjdibg/rs:fit:1200:808:1/g:ce/aHR0cHM6Ly9lZHVn/dWlkZS5jby5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8w/NS9tb2JpbGUtYXBw/LWRldmVsb3BtZW50/LWlsZWFkLnBuZw",
+        "id": "4",
+        "img": "https://imgs.search.brave.com/LBmRtxbFdkjH5Cyj2BclpLJyW_81RNcntzXGJZjdibg/rs:fit:1200:808:1/g:ce/aHR0cHM6Ly9lZHVn/dWlkZS5jby5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8w/NS9tb2JpbGUtYXBw/LWRldmVsb3BtZW50/LWlsZWFkLnBuZw",
         "rating": "4.1",
         "duration": "20",
         "price": "39.99",
-        "title":"App Development Bootcamp",
+        "title": "App Development Bootcamp",
         "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
-        "category_name":"Development",
-        "category_id":"2",
-        "created_by":"Lambert Emard",
-        "students":"8055",
-        "author_img":"https://imgs.search.brave.com/jRGRvbuiCYL3GfI1QVAQNOKwufYqzYfDzsl8FbL8wro/rs:fit:1200:1152:1/g:ce/aHR0cHM6Ly9jb3Vy/c2Vjb3Vwb25jbHVi/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMy8zNDQy/ODQwXzMwMzMtMjA0/OHgxMTUyLmpwZw",
-        "learning":[
-            "You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company","You will learn by doing, where every lesson is incorporated into a real-world app project.","Master creating Augmented Reality apps using Apple’s new ARKit","Master app design so you'll know how to wireframe, mockup and prototype your app idea","After the course, you will be able to build any app you want."
+        "category_name": "Development",
+        "category_id": "2",
+        "created_by": "Lambert Emard",
+        "students": "8055",
+        "author_img": "https://images.unsplash.com/photo-1599566147214-ce487862ea4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+        "learning": [
+            "You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company",
+            "You will learn by doing, where every lesson is incorporated into a real-world app project.",
+            "Master creating Augmented Reality apps using Apple’s new ARKit",
+            "Master app design so you'll know how to wireframe, mockup and prototype your app idea",
+            "After the course, you will be able to build any app you want."
         ],
-        "requirements":[
+        "requirements": [
             "No programming experience needed",
-            "A Mac computer running macOS 10.15 (Catalina) or a PC running macOS.","I'll walk you through, step-by-step how to get Xcode installed and set up"
+            "A Mac computer running macOS 10.15 (Catalina) or a PC running macOS.",
+            "I'll walk you through, step-by-step how to get Xcode installed and set up"
         ],
-        "updated":"23/05/2021"
-
+        "updated": "23/05/2021"
     },
     {
-        "id":"5",
-        "img":"https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+        "id": "5",
+        "img": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
         "rating": "4.5",
         "duration": "80",
         "price": "109.99",
-        "title":"The Complete 2022 Web Development Bootcamp",
+        "title": "The Complete 2022 Web Development Bootcamp",
         "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
-        "category_name":"Development",
-        "category_id":"2",
-        "created_by":"Brendon Pfannerstill",
-        "students":"1455",
-        "author_img":"https://images.unsplash.com/photo-1548544149-4835e62ee5b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "learning":[
-            "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.","You will master both front and back-end development, becoming a full-stack developer by the end of the course.","Build fully-fledged websites and web apps for your startup or business."
+        "category_name": "Development",
+        "category_id": "2",
+        "created_by": "Brendon Pfannerstill",
+        "students": "1455",
+        "author_img": "https://images.unsplash.com/photo-1548544149-4835e62ee5b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29uJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "learning": [
+            "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+            "You will master both front and back-end development, becoming a full-stack developer by the end of the course.",
+            "Build fully-fledged websites and web apps for your startup or business."
         ],
-        "requirements":[
-            "A computer with access to the internet","I'll walk you through, step-by-step how to get all the software installed and set up","No prior knowledge"
+        "requirements": [
+            "A computer with access to the internet",
+            "I'll walk you through, step-by-step how to get all the software installed and set up",
+            "No prior knowledge"
         ],
-        "updated":"20/5/2022"
-
+        "updated": "20/5/2022"
     },
     {
-        "id":"6",
-        "img":"https://iiht-kharghar.com/wp-content/uploads/Cloud-Computing-Course.jpg",
+        "id": "6",
+        "img": "https://iiht-kharghar.com/wp-content/uploads/Cloud-Computing-Course.jpg",
         "rating": "4.0",
         "duration": "40",
         "price": "39",
-        "title":"Introduction to Cloud Computing for Beginners",
+        "title": "Introduction to Cloud Computing for Beginners",
         "description": "Learn Cloud Computing concepts and AWS Basics. Master AWS fundamentals and hands-on skills on Amazon Web Services (AWS)",
-        "category_name":"Cloud Computing",
-        "category_id":"3",
-        "created_by":"Robin Harris",
-        "students":"1583",
-        "author_img":"https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBlcnNvbiUyMGZhY2V8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
-        "learning":[
+        "category_name": "Cloud Computing",
+        "category_id": "3",
+        "created_by": "Robin Harris",
+        "students": "1583",
+        "author_img": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBlcnNvbiUyMGZhY2V8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+        "learning": [
             "Learn general cloud computing concepts",
             "Gain an understanding of the fundamental systems on which the cloud is based",
             "Build knowledge from beginner level to advanced concepts"
         ],
-        "requirements":[
+        "requirements": [
             "This course is designed for Cloud Computing beginners and AWS beginners",
             "Absolutely no prior experience necessary"
         ],
-        "updated":"01/10/2022"
+        "updated": "01/10/2022"
     },
     {
-        "id":"7",
-        "img":"https://www.mycslab.in/wp-content/uploads/2020/01/database-management-system.jpg",
+        "id": "7",
+        "img": "https://www.mycslab.in/wp-content/uploads/2020/01/database-management-system.jpg",
         "rating": "4.6",
         "duration": "70",
         "price": "89",
-        "title":"Fundamentals of Database Engineering",
+        "title": "Fundamentals of Database Engineering",
         "description": "Learn ACID, Indexing, Partitioning, Sharding, Concurrency control, Replication, DB Engines, Best Practices and More!",
-        "category_name":"Database Management",
-        "category_id":"4",
-        "created_by":"Ethyl Hartmann",
-        "students":"23010",
-        "author_img":"https://images.unsplash.com/photo-1626526804650-7118ac691b7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBlcnNvbiUyMGZhY2V8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
-        "learning":[
+        "category_name": "Database Management",
+        "category_id": "4",
+        "created_by": "Ethyl Hartmann",
+        "students": "23010",
+        "author_img": "https://images.unsplash.com/photo-1626526804650-7118ac691b7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBlcnNvbiUyMGZhY2V8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+        "learning": [
             "Learn and understand ACID Properties",
-            "Database Engines such as MyISAM, InnoDB, RocksDB, LevelDB and More","Difference between Database Management System, Database Engine and Embedded database","Benefits of Using one database engine over the other"
+            "Database Engines such as MyISAM, InnoDB, RocksDB, LevelDB and More",
+            "Difference between Database Management System, Database Engine and Embedded database",
+            "Benefits of Using one database engine over the other"
         ],
-        "requirements":[
+        "requirements": [
             "Have worked with databases before but wish to get deeper understanding",
             "Basic SQL knowledge"
         ],
-        "updated":"03/09/2022"
+        "updated": "03/09/2022"
     },
     {
-        "id":"8",
-        "img":"https://hackr.io/blog/best-data-structure-and-algorithms-courses/thumbnail/large",
+        "id": "8",
+        "img": "https://hackr.io/blog/best-data-structure-and-algorithms-courses/thumbnail/large",
         "rating": "4.4",
         "duration": "20",
         "price": "29",
-        "title":"Master Data Structures & Algorithms",
+        "title": "Master Data Structures & Algorithms",
         "description": "Ultimate coding interview bootcamp. Get more job offers, negotiate a raise: Everything you need to get the job you want!",
-        "category_name":"Data Structure and algorithms",
-        "category_id":"5",
-        "created_by":"Cheyenne Walker",
-        "students":"9028",
-        "author_img":"https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFuJTIwZmFjZXxlbnwwfDF8MHx8&auto=format&fit=crop&w=700&q=60",
-        "learning":[
-            "Ace coding interviews given by some of the top tech companies","Learn, implement, and use different Data Structures","Become a better developer by mastering computer science fundamentals","Become more confident and prepared for your next coding interview","Professionally handle offers and negotiate raises"
+        "category_name": "Data Structure and algorithms",
+        "category_id": "5",
+        "created_by": "Cheyenne Walker",
+        "students": "9028",
+        "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFuJTIwZmFjZXxlbnwwfDF8MHx8&auto=format&fit=crop&w=700&q=60",
+        "learning": [
+            "Ace coding interviews given by some of the top tech companies",
+            "Learn, implement, and use different Data Structures",
+            "Become a better developer by mastering computer science fundamentals",
+            "Become more confident and prepared for your next coding interview",
+            "Professionally handle offers and negotiate raises"
         ],
-        "requirements":[
-            "No experience with data structures or algorithms needed","No previous computer science knowledge necessary","Basic understanding of one programming language"
+        "requirements": [
+            "No experience with data structures or algorithms needed",
+            "No previous computer science knowledge necessary",
+            "Basic understanding of one programming language"
         ],
-        "updated":"29/07/2022"
+        "updated": "29/07/2022"
     }
 ]
