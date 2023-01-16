@@ -37,6 +37,7 @@
         "category_name": "Machine Learning",
         "category_id": "7",
         "created_by": "Mitsuha",
+        "creator_position":"ML engineer",
         "students": "12355",
         "author_img": "https://i.ibb.co/mtj9dwY/r4.jpg",
         "learning": [
@@ -61,6 +62,7 @@
         "title": "Linux Training fro beginners",
         "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
         "category_name": "Linux",
+        "creator_position":"Linux Expert",
         "category_id": "8",
         "created_by": "Denji",
         "students": "12355",
