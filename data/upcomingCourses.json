@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "img": "https://imgs.search.brave.com/N3Lw7j9pEfX-f6J40lH-KM79mCsMVGekZTRFOWQiqGY/rs:fit:461:309:1/g:ce/aHR0cHM6Ly9zdGVt/cGVkdS5jb20vd3At/Y29udGVudC91cGxv/YWRzL0FJLWNvdXJz/ZXMtY292ZXIucG5n",
+        "rating": "4.5",
+        "duration": "60",
+        "price": "49",
+        "title": "Artificial Intelligence A-Z",
+        "description": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
+        "category_name": "Artificial Intelligence",
+        "category_id": "6",
+        "created_by": "Taki",
+        "creator_position":"AI specialist",
+        "students": "12355",
+        "author_img": "https://i.ibb.co/qDtN17Z/r5.jpg",
+        "learning": [
+            "You will master the Python programming language by building 100 unique projects over 100 days.",
+            "You will be able to program in Python professionally",
+            "Create a portfolio of 100 Python projects to apply for developer jobs",
+            "Build GUIs and Desktop applications with Python",
+            "You will learn automation, game, app and web development, data science and machine learning all using Python."
+        ],
+        "requirements": [
+            "No programming experience needed - I'll teach you everything you need to know",
+            "No paid software required - I'll teach you how to use PyCharm, Jupyter Notebooks and Google Colab",
+            "I'll walk you through, step-by-step how to get all the software installed and set up"
+        ],
+        "updated": "1/12/2021"
+    },{
+        "id": "2",
+        "img": "https://imgs.search.brave.com/PvbdsbszvFHrR7Dx-I511_wTbY_m2ukIEdAKxmh6_fs/rs:fit:850:450:1/g:ce/aHR0cDovL3d3dy5l/d29ya2VyLmNvL2Nv/dXJzZXMvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTcvMDMvTWFj/aGluZS1MZWFybmlu/Zy0yLnBuZw",
+        "rating": "4.5",
+        "duration": "60",
+        "price": "49",
+        "title": "Complete Machine learning for beginners",
+        "description": "Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas & more!",
+        "category_name": "Machine Learning",
+        "category_id": "7",
+        "created_by": "Mitsuha",
+        "students": "12355",
+        "author_img": "https://i.ibb.co/mtj9dwY/r4.jpg",
+        "learning": [
+            "You will master the Python programming language by building 100 unique projects over 100 days.",
+            "You will be able to program in Python professionally",
+            "Create a portfolio of 100 Python projects to apply for developer jobs",
+            "Build GUIs and Desktop applications with Python",
+            "You will learn automation, game, app and web development, data science and machine learning all using Python."
+        ],
+        "requirements": [
+            "No programming experience needed - I'll teach you everything you need to know",
+            "No paid software required - I'll teach you how to use PyCharm, Jupyter Notebooks and Google Colab",
+            "I'll walk you through, step-by-step how to get all the software installed and set up"
+        ],
+        "updated": "1/12/2021"
+    },{
+        "id": "3",
+        "img": "https://imgs.search.brave.com/p8W6r7M45IkbAHvSBalaTvhqK2yqRiScSZt5y_nsaRY/rs:fit:740:597:1/g:ce/aHR0cHM6Ly93d3cu/ZXhhbWxhYnMuY29t/L3N0YXRpYy9pbWcv/Y291cnNlcy84NDc4/LmpwZw",
+        "rating": "4.5",
+        "duration": "60",
+        "price": "49",
+        "title": "Linux Training fro beginners",
+        "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+        "category_name": "Linux",
+        "category_id": "8",
+        "created_by": "Denji",
+        "students": "12355",
+        "author_img": "https://i.ibb.co/H22zZfS/Denji.webp",
+        "learning": [
+            "You will master the Python programming language by building 100 unique projects over 100 days.",
+            "You will be able to program in Python professionally",
+            "Create a portfolio of 100 Python projects to apply for developer jobs",
+            "Build GUIs and Desktop applications with Python",
+            "You will learn automation, game, app and web development, data science and machine learning all using Python."
+        ],
+        "requirements": [
+            "No programming experience needed - I'll teach you everything you need to know",
+            "No paid software required - I'll teach you how to use PyCharm, Jupyter Notebooks and Google Colab",
+            "I'll walk you through, step-by-step how to get all the software installed and set up"
+        ],
+        "updated": "1/12/2021"
+    }
+]
